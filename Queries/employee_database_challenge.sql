@@ -25,7 +25,7 @@ title,
 from_date,
 to_date,
 
-INTO nameyourtable
+INTO unique_titles
 FROM retirement_tables
 ORDER BY emp_no, _____ DESC;
 
